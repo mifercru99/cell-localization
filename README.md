@@ -1,5 +1,4 @@
-# Image processing techniques for segmentation and localization of cells from videos.
-
+# Image processing techniques for segmentation and localization of cells from videos
 
 The aim of this final degree project is to study the feasibility of using deep learning techniques to identify individual cells in cell culture videos. This is a necessary preliminary step in order to then evaluate cell tracking using algorithms designed for this purpose, identifying the behaviour of cancer cells in relation to normal cells based on the way they move.
 
